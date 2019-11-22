@@ -1,4 +1,4 @@
-# Gatsby / GraphQL <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
+# Gatsby : GraphQL <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
 
 ### What is in there
 This GitHub repository is just a simple web app starter using graphql.
@@ -10,8 +10,8 @@ Gatsby is a blazing fast modern site generator for React. Gatsby is a free and o
 
 ### How make it run
 ```
-git clone https://github.com/mustapha-benmbarek/gatsby-003-graphql
-cd gatsby-003-graphql
+git clone https://github.com/mustapha-benmbarek/gatsby-graphql
+cd gatsby-graphql
 npm install 
 gatsby develop
 ```
